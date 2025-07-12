@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0_confidential_information.txt",
+    "text": "CONFIDENTIAL INFORMATION\n\n\"Confidential Information\" means all non-public, proprietary, or confidential information disclosed by either party, whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information. This includes, without limitation, trade secrets, business plans, customer data, software code, financial information, and other proprietary materials."
+  },
+  {
+    "id": "1_exceptions.txt",
+    "text": "EXCEPTIONS\n\nThe obligations of confidentiality shall not apply to information that (a) was in the Recipient\u2019s possession prior to disclosure; (b) becomes publicly available through no fault of the Recipient; (c) is lawfully disclosed to the Recipient by a third party; or (d) is independently developed by the Recipient without use of the Confidential Information."
+  },
+  {
+    "id": "2_governing_law.txt",
+    "text": "GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles. Any legal action arising out of this Agreement shall be brought exclusively in the courts located within Delaware."
+  },
+  {
+    "id": "3_non_disclosure.txt",
+    "text": "NON-DISCLOSURE OBLIGATIONS\n\nThe Recipient agrees not to disclose any Confidential Information to third parties for a period of five (5) years from the date of disclosure. The Recipient shall take all reasonable steps to protect the confidentiality of the Confidential Information and shall use it solely to evaluate or pursue a business relationship with the Disclosing Party."
+  },
+  {
+    "id": "4_return_of_materials.txt",
+    "text": "RETURN OR DESTRUCTION OF MATERIALS\n\nUpon termination of this Agreement or upon request of the Disclosing Party, the Recipient shall promptly return or destroy all copies of the Confidential Information, including notes, summaries, and derivatives thereof, and shall confirm in writing that it has complied with this obligation."
+  }
+]

@@ -1,0 +1,3 @@
+EXCEPTIONS
+
+The obligations of confidentiality shall not apply to information that (a) was in the Recipient’s possession prior to disclosure; (b) becomes publicly available through no fault of the Recipient; (c) is lawfully disclosed to the Recipient by a third party; or (d) is independently developed by the Recipient without use of the Confidential Information.
